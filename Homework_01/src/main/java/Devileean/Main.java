@@ -11,6 +11,7 @@ public class Main {
         example_3();
     }
     /**
+     *
      * Решение 1 задачи
      */
     public static void example_1() {
